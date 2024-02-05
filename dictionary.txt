@@ -48,3 +48,6 @@ lackadaisical
 languid
 listless
 commiseration
+gumption
+hubris
+austere
